@@ -11,8 +11,15 @@
 
 body{
     background-image: linear-gradient(rgb(255,100,100), orange);
-    height: 97.5vh;
+    height: 102vh;
     }
+
+.welcome{
+    text-align: center;
+    font-size: 35px;
+    margin: 10px 0;
+    font-weight: bold;
+}
 
 .container{
     display: block;
