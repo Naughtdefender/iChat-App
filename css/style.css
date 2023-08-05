@@ -27,13 +27,12 @@ body{
 }
 
 .message{
+    background-color: #e4b7b37d;
     width: 40%;
     padding: 10px;
-    background-color: #e4b7b37d;
-    padding: 10px;
+    margin: 17px 12px;
     border: 1px solid gray;
     border-radius: 10px;
-    margin: 10px;
 }
 
 .left{
@@ -68,6 +67,7 @@ body{
 
 .btn{
     background: none;
+    cursor: pointer;
     padding: 10px 25px;
     border-radius: 10px;
     border: 1px solid red;
